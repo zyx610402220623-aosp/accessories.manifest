@@ -50,6 +50,23 @@
       "message": "test",
       "revId": "fce42ee2e8f4fd3c52ff0de1695ffb6d62c19e80",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "93323d8a_519dc754",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1780441
+      },
+      "writtenOn": "2021-12-15T14:26:41Z",
+      "side": 1,
+      "message": "https://android.googlesource.com/accessories/manifest",
+      "revId": "fce42ee2e8f4fd3c52ff0de1695ffb6d62c19e80",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
