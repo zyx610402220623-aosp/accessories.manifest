@@ -67,6 +67,23 @@
       "message": "https://android.googlesource.com/accessories/manifest",
       "revId": "fce42ee2e8f4fd3c52ff0de1695ffb6d62c19e80",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "871352ad_f657c5dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3253827
+      },
+      "writtenOn": "2024-01-23T00:04:15Z",
+      "side": 1,
+      "message": "hi",
+      "revId": "fce42ee2e8f4fd3c52ff0de1695ffb6d62c19e80",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
